@@ -1,4 +1,4 @@
-# WIP, 
+## Hi there 👋
 
 Thanks to Venkat3620 for base [LineageOS trees](https://github.com/Venkat3620/device_motorola_corfur)
 
